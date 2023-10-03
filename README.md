@@ -1,6 +1,6 @@
 # PowerBI-Financials
 ## Descrição
-Repositório com relatórios financeiros no PowerBI para práticas de análise de dados. Explore visualizações e técnicas para compreender o desempenho financeiro. Dados simulados ou anonimizados para aprendizado interativo.
+Este projeto é dedicado à análise aprofundada do cenário financeiro. Utiliza dados relevantes e representativos para oferecer uma visão abrangente e precisa. A apresentação é feita de maneira lógica e visual, através de gráficos e tabelas informativas. O principal objetivo é fornecer insights e informações financeiras de forma clara e concisa, facilitando a compreensão e a tomada de decisões fundamentadas.
 
 ## Principais Características:
 - Apresenta análises aprofundadas e insights relevantes no âmbito financeiro.
